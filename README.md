@@ -6,7 +6,7 @@ In this project, we built a web application for users to simulate the tomato gro
 
 By inputing the parameters such as temperature, CO2, simulation time range and location, users can get the numerical and visulization result including **total yield of the tomatoes**, **dry weight distribution** and **Growth of truss number**.
 
-Please visit [tomato simulator!](https://info8000.aranisme.top/)
+Please visit [tomato simulator!](https://cea.sensorweb.us)
 
 ## Components
 **database tables**:
@@ -23,7 +23,7 @@ Please visit [tomato simulator!](https://info8000.aranisme.top/)
 **Flask, bootstrap, Jquery, canvasJS, Ajax**
 
 ## Deployment
-The web application has been deployed on a google cloud platform at: [tomato simulator!](https://info8000.aranisme.top/)
+The web application has been deployed on a google cloud platform at: [tomato simulator!](https://cea.sensorweb.us)
 
 Login:
 ```
